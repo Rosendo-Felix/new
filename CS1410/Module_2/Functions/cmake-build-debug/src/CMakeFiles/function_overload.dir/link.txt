@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\function_overload.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\function_overload.dir/objects.a @CMakeFiles\function_overload.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\function_overload.dir/objects.a -Wl,--no-whole-archive  -o ..\bin\function_overload.exe -Wl,--out-implib,..\lib\libfunction_overload.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\function_overload.dir\linklibs.rsp

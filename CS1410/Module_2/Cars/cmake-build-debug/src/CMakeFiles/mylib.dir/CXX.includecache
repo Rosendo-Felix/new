@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/felixr/Desktop/School/CS1410/Module_2/Cars/src/cars.cpp
+cars.h
+C:/Users/felixr/Desktop/School/CS1410/Module_2/Cars/src/cars.h
+iomanip
+-
+iostream
+-
+
+C:/Users/felixr/Desktop/School/CS1410/Module_2/Cars/src/cars.h
+

@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Functions"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\src\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mylib">
+				<Option output="C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/cmake-build-debug/bin/libmylib.dll" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/cmake-build-debug/src"/>
+				<Option object_output="./"/>
+				<Option type="3"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 mylib"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mylib/fast">
+				<Option output="C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/cmake-build-debug/bin/libmylib.dll" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/cmake-build-debug/src"/>
+				<Option object_output="./"/>
+				<Option type="3"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 mylib/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="call_teams">
+				<Option output="C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/cmake-build-debug/bin/call_teams.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/cmake-build-debug/src"/>
+					<Add directory="C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/src"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 call_teams"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="call_teams/fast">
+				<Option output="C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/cmake-build-debug/bin/call_teams.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/cmake-build-debug/src"/>
+					<Add directory="C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/src"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 call_teams/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="function_overload">
+				<Option output="C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/cmake-build-debug/bin/function_overload.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 function_overload"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="function_overload/fast">
+				<Option output="C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/cmake-build-debug/bin/function_overload.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 function_overload/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="arguments">
+				<Option output="C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/cmake-build-debug/bin/arguments.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 arguments"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="arguments/fast">
+				<Option output="C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/cmake-build-debug/bin/arguments.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 arguments/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ret_values">
+				<Option output="C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/cmake-build-debug/bin/ret_values.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 ret_values"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ret_values/fast">
+				<Option output="C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/cmake-build-debug/bin/ret_values.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 ret_values/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="functions_part1">
+				<Option output="C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/cmake-build-debug/bin/functions_part1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 functions_part1"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="functions_part1/fast">
+				<Option output="C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/cmake-build-debug/bin/functions_part1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 functions_part1/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="local_global">
+				<Option output="C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/cmake-build-debug/bin/local_global.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 local_global"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="local_global/fast">
+				<Option output="C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/cmake-build-debug/bin/local_global.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 local_global/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/src/arguments.cpp">
+			<Option target="arguments"/>
+		</Unit>
+		<Unit filename="C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/src/call_teams.cpp">
+			<Option target="call_teams"/>
+		</Unit>
+		<Unit filename="C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/src/dodgers.cpp">
+			<Option target="mylib"/>
+		</Unit>
+		<Unit filename="C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/src/dodgers.h">
+			<Option target="mylib"/>
+		</Unit>
+		<Unit filename="C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/src/function_overload.cpp">
+			<Option target="function_overload"/>
+		</Unit>
+		<Unit filename="C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/src/functions_part1.cpp">
+			<Option target="functions_part1"/>
+		</Unit>
+		<Unit filename="C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/src/local_global.cpp">
+			<Option target="local_global"/>
+		</Unit>
+		<Unit filename="C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/src/ret_values.cpp">
+			<Option target="ret_values"/>
+		</Unit>
+		<Unit filename="C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/src/yankees.cpp">
+			<Option target="mylib"/>
+		</Unit>
+		<Unit filename="C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/src/yankees.h">
+			<Option target="mylib"/>
+		</Unit>
+		<Unit filename="C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/src/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\src\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

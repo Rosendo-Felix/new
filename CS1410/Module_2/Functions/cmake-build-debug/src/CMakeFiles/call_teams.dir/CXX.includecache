@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/src/call_teams.cpp
+iostream
+-
+dodgers.h
+C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/src/dodgers.h
+yankees.h
+C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/src/yankees.h
+
+C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/src/dodgers.h
+
+C:/Users/felixr/Desktop/School/CS1410/Module_2/Functions/src/yankees.h
+
