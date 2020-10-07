@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/felixr/Desktop/waldo_and_earthquakes/src/utilities.cpp
+utilities.h
+C:/Users/felixr/Desktop/waldo_and_earthquakes/src/utilities.h
+array
+-
+string
+-
+fstream
+-
+iostream
+-
+
+C:/Users/felixr/Desktop/waldo_and_earthquakes/src/utilities.h
+string
+-
+iostream
+-
+

@@ -1,0 +1,1420 @@
+4.9 mb
+16km NE of Kaikoura, New Zealand
+-42.2914 173.807 10
+2016-11-13T20:22:13.550Z
+4.9 mb
+18km ENE of Kaikoura, New Zealand
+-42.3703 173.895 10
+2016-11-13T20:14:50.780Z
+4.6 mb
+53km SE of Blenheim, New Zealand
+-41.827 174.444 10
+2016-11-13T19:38:07.070Z
+5.1 mb
+40km SE of Blenheim, New Zealand
+-41.73 174.34 8
+2016-11-13T19:28:44.000Z
+5.1 mb
+25km E of Kaikoura, New Zealand
+-42.3626 173.99 10
+2016-11-13T18:59:07.550Z
+4.8 mb
+49km SSE of Blenheim, New Zealand
+-41.9152 174.215 10
+2016-11-13T18:34:26.060Z
+4.9 mb
+45km SW of Kaikoura, New Zealand
+-42.6355 173.229 10
+2016-11-13T18:16:36.880Z
+5.1 mb
+45km S of Caucete, Argentina
+-32.0657 -68.2729 128.98
+2016-11-13T17:52:53.590Z
+5.1 mwr
+46km SE of Blenheim, New Zealand
+-41.8603 174.265 14.7
+2016-11-13T15:33:03.650Z
+5.7 mwr
+32km N of Chilecito, Argentina
+-28.872 -67.4683 110.24
+2016-11-13T14:01:01.790Z
+5.2 mb
+45km SE of Blenheim, New Zealand
+-41.7811 174.365 10.33
+2016-11-13T13:49:59.170Z
+6.2 mww
+12km N of Kaikoura, New Zealand
+-42.2914 173.693 8.29
+2016-11-13T13:31:26.630Z
+5.3 mb
+39km SSE of Blenheim, New Zealand
+-41.8159 174.209 10
+2016-11-13T13:21:12.500Z
+4.9 mb
+38km S of Blenheim, New Zealand
+-41.8566 174.026 20.92
+2016-11-13T13:12:30.660Z
+4.9 mb
+19km N of Kaikoura, New Zealand
+-42.232 173.644 4.92
+2016-11-13T12:52:19.190Z
+5.2 mb
+29km SE of Blenheim, New Zealand
+-41.6951 174.222 19.4
+2016-11-13T12:38:38.880Z
+5.2 mb
+26km W of Kaikoura, New Zealand
+-42.3911 173.365 10
+2016-11-13T12:37:45.360Z
+4.7 mb
+135km N of Neiafu, Tonga
+-17.4442 -174.189 97.12
+2016-11-13T12:37:16.130Z
+5.2 mb
+51km N of Amberley, New Zealand
+-42.712 172.834 9.58
+2016-11-13T12:25:55.460Z
+4.9 mb
+23km NW of Kaikoura, New Zealand
+-42.2839 173.452 10.46
+2016-11-13T12:20:44.270Z
+5 mb
+46km SSW of Brooklyn, New Zealand
+-41.684 174.491 13.67
+2016-11-13T12:04:15.560Z
+6.1 mww
+23km NNW of Kaikoura, New Zealand
+-42.1985 173.615 16.04
+2016-11-13T11:52:45.170Z
+5.7 mb
+32km SSE of Blenheim, New Zealand
+-41.7875 174.112 10
+2016-11-13T11:41:49.100Z
+6.5 mww
+17km NNW of Kaikoura, New Zealand
+-42.2536 173.63 10
+2016-11-13T11:32:07.310Z
+5.8 mb
+2km NW of Kaikoura, New Zealand
+-42.3902 173.655 10.37
+2016-11-13T11:12:39.250Z
+4.9 mb
+186km NE of Chichi-shima, Japan
+28.2298 143.594 10
+2016-11-13T11:04:54.760Z
+7.8 mww
+53km NNE of Amberley, New Zealand
+-42.7568 173.077 23
+2016-11-13T11:02:56.970Z
+4.5 mb
+Izu Islands, Japan region
+31.3414 142.28 28.61
+2016-11-13T04:53:46.140Z
+4.5 mb
+109km NE of Ndoi Island, Fiji
+-20.0247 -177.891 525.96
+2016-11-13T03:51:02.730Z
+4.8 Ml
+33km NE of Miches, Dominican Republic
+19.281 -68.9199 14.3
+2016-11-13T02:09:43.400Z
+5.7 mb
+24km E of Tinogasta, Argentina
+-28.1017 -67.3245 121.05
+2016-11-13T01:01:51.930Z
+4.6 mb
+South of the Fiji Islands
+-24.9817 -179.958 490.46
+2016-11-13T00:55:46.180Z
+4.6 mb
+102km E of Iwaki, Japan
+37.0069 142.032 18.22
+2016-11-12T22:43:22.570Z
+5.2 ml
+106km NNE of Chignik Lake, Alaska
+57.0729 -157.708 11.4
+2016-11-12T21:52:36.956Z
+4.6 mb
+123km SSW of Biha, Indonesia
+-6.3431 103.563 42.23
+2016-11-12T21:07:33.740Z
+5 mb
+209km SSE of Punta de Burica, Panama
+6.1803 -82.4554 10
+2016-11-12T20:08:48.820Z
+5.5 mb
+South of the Fiji Islands
+-24.9651 178.66 564.95
+2016-11-12T16:15:51.570Z
+4.8 mb
+245km ESE of Lambasa, Fiji
+-17.5257 -178.615 535.73
+2016-11-12T12:31:38.500Z
+4.9 mwr
+66km SW of Yonakuni, Japan
+24.056 122.52 30.03
+2016-11-11T22:25:31.270Z
+6.2 mwb
+24km ENE of Ishinomaki, Japan
+38.4993 141.561 44.83
+2016-11-11T21:42:59.300Z
+4.7 mb
+151km NNW of Dobo, Indonesia
+-4.4273 133.932 12.22
+2016-11-11T17:12:06.790Z
+5.1 mb
+23km SSE of Pucallpa, Peru
+-8.5755 -74.4728 144.82
+2016-11-11T14:53:05.270Z
+4.7 mb
+Scotia Sea
+-60.4509 -47.5545 10
+2016-11-11T10:57:10.600Z
+5.2 mb
+24km ENE of Shemya Island, Alaska
+52.7691 174.47 97.52
+2016-11-11T08:13:46.190Z
+4.6 mb
+192km WSW of Severo-Kuril'sk, Russia
+49.9566 153.665 199.08
+2016-11-11T07:05:46.780Z
+4.7 mb
+4km S of Toba, Japan
+34.4412 136.846 348.15
+2016-11-11T04:53:37.380Z
+5.1 mb
+78km S of Ngulung Wetan, Indonesia
+-8.9995 111.386 35
+2016-11-11T00:26:44.300Z
+4.5 mb
+226km ENE of Sola, Vanuatu
+-12.8927 169.382 639.36
+2016-11-10T22:04:27.610Z
+4.9 mb
+31km NE of Coracora, Peru
+-14.8146 -73.5968 67.24
+2016-11-10T17:43:14.530Z
+5.6 mww
+57km ENE of Ndoi Island, Fiji
+-20.4172 -178.207 546.21
+2016-11-10T17:35:38.870Z
+4.5 mwr
+102km S of Putre, Chile
+-19.1163 -69.4535 94.59
+2016-11-10T17:14:54.480Z
+5.2 mb
+Western Indian-Antarctic Ridge
+-50.0219 114.194 10
+2016-11-10T12:24:09.900Z
+4.8 mb
+12km NE of Polykastron, Greece
+41.0726 22.673 10
+2016-11-10T12:12:44.040Z
+5 mb
+76km SE of Hihifo, Tonga
+-16.4577 -173.269 10
+2016-11-10T11:49:31.210Z
+4.7 mb
+38km SSE of Rota, Northern Mariana Islands
+13.8472 145.377 97.53
+2016-11-10T10:57:47.300Z
+4.8 mb
+64km S of Ngulung Wetan, Indonesia
+-8.8707 111.393 73.76
+2016-11-10T08:15:34.920Z
+4.9 mb
+23km WNW of Gumian, Philippines
+14.82 121.429 52.27
+2016-11-10T07:11:05.110Z
+4.6 mb
+81km SW of Puerto Madero, Mexico
+14.2979 -93.0443 54.16
+2016-11-10T02:56:01.340Z
+5.1 mb
+49km SE of Ofunato, Japan
+38.7666 142.125 42.12
+2016-11-09T22:20:41.450Z
+5.9 mwb
+96km NNW of Kimbe, Papua New Guinea
+-4.7298 149.851 446.24
+2016-11-09T14:50:59.460Z
+4.7 mb
+49km WNW of Talcahuano, Chile
+-36.5108 -73.6033 12.79
+2016-11-09T12:21:30.120Z
+4.5 mb
+59km WNW of Talcahuano, Chile
+-36.4734 -73.7061 10
+2016-11-09T11:04:08.010Z
+4.9 mb
+19km NNE of Port-Olry, Vanuatu
+-14.8843 167.099 96.12
+2016-11-09T08:15:30.050Z
+5.1 mb
+27km SSW of El Hoyo, Argentina
+-27.2538 -63.3462 563.02
+2016-11-08T23:30:21.160Z
+4.5 mb
+11km WNW of Pujocucho, Peru
+-17.1276 -70.4568 122.59
+2016-11-08T23:11:58.710Z
+4.5 mwr
+76km SSW of Lebu, Chile
+-38.188 -74.1353 7.85
+2016-11-08T17:09:51.070Z
+4.7 mwr
+30km E of Taltal, Chile
+-25.4077 -70.183 57.62
+2016-11-08T14:13:58.360Z
+4.6 mb
+83km WSW of Sungaipenuh, Indonesia
+-2.3681 100.686 57.06
+2016-11-08T09:31:02.200Z
+4.7 mb
+West of Macquarie Island
+-58.2127 148.312 10
+2016-11-08T09:11:09.530Z
+4.9 mb
+62km W of Tanaga Volcano, Alaska
+51.8383 -179.05 35
+2016-11-08T07:32:14.630Z
+5.1 mb
+38km WNW of Talcahuano, Chile
+-36.6082 -73.5222 22.21
+2016-11-08T07:08:03.000Z
+4.9 mb
+West of Macquarie Island
+-58.0464 148.291 32.96
+2016-11-08T06:25:55.260Z
+4.9 mb
+46km WNW of Talcahuano, Chile
+-36.6029 -73.6206 21.6
+2016-11-08T05:44:42.740Z
+4.9 mb
+36km WNW of Talcahuano, Chile
+-36.5898 -73.4947 20.03
+2016-11-08T05:16:17.530Z
+5.9 mwr
+48km WNW of Talcahuano, Chile
+-36.5806 -73.6355 17.3
+2016-11-08T04:55:44.250Z
+5 mb
+West of Macquarie Island
+-58.1573 148.481 10
+2016-11-08T04:27:13.590Z
+5.7 mww
+West of Macquarie Island
+-58.1371 148.13 10
+2016-11-08T03:09:25.370Z
+5.4 mb
+86km NE of Kainantu, Papua New Guinea
+-5.7905 146.472 63.48
+2016-11-08T00:58:45.150Z
+5.8 mww
+166km SSW of Tugu Hilir, Indonesia
+-8.1021 104.852 33
+2016-11-07T21:31:28.260Z
+4.7 mb
+191km SSW of Ndoi Island, Fiji
+-22.2009 -179.523 569.95
+2016-11-07T17:14:51.750Z
+4.8 mb
+11km NNW of Opunake, New Zealand
+-39.37 173.79 19
+2016-11-07T16:59:07.000Z
+4.6 mwr
+40km NW of San Antonio de los Cobres, Argentina
+-23.9891 -66.6231 208.02
+2016-11-07T15:24:07.480Z
+4.6 mb
+North of Severnaya Zemlya
+84.8823 102.103 16.22
+2016-11-07T12:50:31.640Z
+4.8 mb
+40km NE of Taitung City, Taiwan
+22.9782 121.463 7.02
+2016-11-07T11:56:25.040Z
+4.6 mb
+South of the Kermadec Islands
+-34.5756 -179.117 35
+2016-11-07T06:52:45.240Z
+4.7 mb
+8km SE of Paredon, Mexico
+15.9675 -93.8175 104.51
+2016-11-07T03:50:19.780Z
+5 mww
+2km W of Cushing, Oklahoma
+35.9837 -96.7982 5
+2016-11-07T01:44:24.930Z
+5 mb
+71km ESE of Nago, Japan
+26.4102 128.661 28.37
+2016-11-06T20:25:52.540Z
+4.6 mb
+60km NNE of Grande Anse, Guadeloupe
+16.8131 -60.8763 33.58
+2016-11-06T18:27:14.360Z
+4.9 mb
+49km SE of Belen, Argentina
+-27.9791 -66.696 153.41
+2016-11-06T16:48:34.720Z
+4.5 mb
+17km NE of Shinjo, Japan
+38.8707 140.442 105.91
+2016-11-06T15:18:47.710Z
+4.8 mb
+124km SW of Padangsidempuan, Indonesia
+0.5722 98.4737 51.94
+2016-11-06T14:03:39.330Z
+4.6 mb
+203km ESE of Makarov, Russia
+48.2412 145.493 488.06
+2016-11-06T10:35:07.270Z
+4.8 mb
+95km SSE of Halls Creek, Australia
+-19.1015 128.002 10.61
+2016-11-06T09:54:32.440Z
+4.6 mb
+232km NW of Saumlaki, Indonesia
+-6.4071 129.887 133.62
+2016-11-06T05:24:07.720Z
+4.7 mb
+114km WNW of Esso, Russia
+56.2122 156.939 15.77
+2016-11-06T02:37:36.690Z
+4.9 mb
+65km E of Taron, Papua New Guinea
+-4.4047 153.616 106.55
+2016-11-05T23:38:17.980Z
+4.6 mb
+145km NNE of Raoul Island, New Zealand
+-28.0931 -177.226 133.83
+2016-11-05T15:51:27.710Z
+4.6 mb
+79km E of Pondaguitan, Philippines
+6.3876 126.892 92.67
+2016-11-05T14:31:38.840Z
+5.3 mb
+Pacific-Antarctic Ridge
+-54.9817 -129.601 10
+2016-11-05T13:18:15.410Z
+5 mb
+Northern Mid-Atlantic Ridge
+30.7671 -41.0986 10
+2016-11-05T05:46:07.460Z
+4.7 mb
+50km ENE of General Luna, Philippines
+9.9203 126.602 49.91
+2016-11-05T05:40:57.670Z
+4.9 mb
+20km SE of Rota, Northern Mariana Islands
+14.0357 145.35 83.61
+2016-11-05T03:54:09.810Z
+4.7 mb
+162km SW of Merizo Village, Guam
+12.0588 143.809 35
+2016-11-05T00:53:32.630Z
+5 mb
+108km WNW of Sinabang, Indonesia
+2.8662 95.4824 29.27
+2016-11-04T23:26:48.250Z
+4.6 mb
+164km NE of Gisborne, New Zealand
+-37.5235 179.213 10
+2016-11-04T23:23:27.300Z
+5 mb
+45km SSW of Panguna, Papua New Guinea
+-6.6991 155.326 62.64
+2016-11-04T17:29:12.050Z
+4.7 mb
+60km WNW of Kota Ternate, Indonesia
+1.0323 126.879 42.75
+2016-11-04T17:23:16.870Z
+6.4 mwp
+25km ESE of Curico, Chile
+-35.1033 -70.9964 90.79
+2016-11-04T16:20:43.940Z
+4.9 mb
+74km N of Isangel, Vanuatu
+-18.8732 169.26 209.73
+2016-11-04T05:45:03.290Z
+4.7 mb
+10km WNW of Ngawi, Indonesia
+-7.3717 111.356 16.01
+2016-11-04T05:08:05.650Z
+4.6 mb
+40km SSW of Pangai, Tonga
+-20.1455 -174.487 95.38
+2016-11-04T01:32:47.900Z
+4.5 mb
+141km SSE of Lambasa, Fiji
+-17.6566 179.711 581.12
+2016-11-03T23:05:02.870Z
+4.5 mb
+38km NNW of Poigar, Indonesia
+1.3134 124.143 269.96
+2016-11-03T22:12:01.860Z
+5 mb
+East of the North Island of New Zealand
+-35.6968 -178.955 10
+2016-11-03T18:45:38.620Z
+4.9 mb
+79km NE of Raoul Island, New Zealand
+-28.7242 -177.359 51.84
+2016-11-03T18:22:18.220Z
+4.5 mb
+255km SE of Latung, Philippines
+3.6585 122.278 596.75
+2016-11-03T16:44:31.850Z
+5 mb
+70km NE of Amahai, Indonesia
+-2.9408 129.414 36.24
+2016-11-03T16:11:40.690Z
+4.6 mb
+116km SSE of Ewirgol, China
+41.9958 88.2009 36.11
+2016-11-03T15:54:16.740Z
+4.8 mb
+22km E of Lapuan, Philippines
+6.1699 125.899 159.54
+2016-11-03T15:21:08.670Z
+5.1 mb
+131km NE of Iquique, Chile
+-19.3546 -69.2907 113.29
+2016-11-03T12:44:02.660Z
+4.9 mb
+74km SW of Jiquilillo, Nicaragua
+12.209 -87.8596 35.73
+2016-11-03T04:59:12.250Z
+4.8 mwr
+3km WSW of Pieve Torina, Italy
+43.0293 13.0042 10
+2016-11-03T00:35:02.650Z
+5 mb
+143km S of Raoul Island, New Zealand
+-30.5388 -177.618 12.77
+2016-11-02T16:15:20.710Z
+4.7 mb
+146km NE of Gisborne, New Zealand
+-37.6635 179.11 14.5
+2016-11-02T09:54:16.250Z
+4.8 mb
+115km E of Neiafu, Tonga
+-18.6329 -172.889 35
+2016-11-02T09:02:10.600Z
+5.1 mb
+49km NNW of San Pedro de Atacama, Chile
+-22.4956 -68.3678 119.04
+2016-11-02T07:21:31.440Z
+4.5 mwr
+14km ESE of Pawnee, Oklahoma
+36.3077 -96.6472 2.56
+2016-11-02T04:26:54.200Z
+5.4 mb
+155km WSW of Nikol'skoye, Russia
+54.7338 163.697 10
+2016-11-02T03:44:31.990Z
+4.5 mb
+Owen Fracture Zone region
+14.2855 56.6635 10
+2016-11-01T23:55:25.780Z
+4.7 mb
+Owen Fracture Zone region
+14.2897 56.6289 10
+2016-11-01T23:29:33.740Z
+4.6 mb
+91km W of El Aguilar, Argentina
+-23.1104 -66.581 208.94
+2016-11-01T23:29:33.650Z
+4.9 mb
+62km E of Namie, Japan
+37.5258 141.707 12.71
+2016-11-01T22:37:32.960Z
+5.2 mb
+84km SE of Haebaru, Japan
+25.7713 128.435 10
+2016-11-01T22:31:55.740Z
+5 mb
+77km WNW of Sola, Vanuatu
+-13.6404 166.875 112.46
+2016-11-01T20:35:35.140Z
+4.7 mb
+58km N of Whakatane, New Zealand
+-37.4308 176.958 185.84
+2016-11-01T19:43:53.130Z
+5.9 mwb
+100km W of Kandrian, Papua New Guinea
+-6.1151 148.65 55.35
+2016-11-01T19:03:30.450Z
+4.5 ml
+64km WNW of El Aguilar, Argentina
+-23.0089 -66.2758 246.94
+2016-11-01T13:39:54.470Z
+4.7 mb
+96km E of Hachijo-jima, Japan
+33.2105 140.823 54.31
+2016-11-01T13:37:43.880Z
+5.2 mb
+Tristan da Cunha region
+-35.2427 -15.1079 17.72
+2016-11-01T08:27:15.800Z
+4.9 mwr
+10km ESE of Pieve Torina, Italy
+43.013 13.1631 10
+2016-11-01T07:56:40.940Z
+4.6 mb
+135km ENE of Hirara, Japan
+25.2341 126.535 69.5
+2016-11-01T07:06:39.070Z
+4.5 mwr
+70km W of Coquimbo, Chile
+-29.8574 -72.0697 9.63
+2016-10-31T21:04:53.130Z
+5.5 mwb
+286km SE of Sur, Oman
+20.8956 61.6477 10
+2016-10-31T16:02:43.530Z
+4.5 mb
+96km SW of Acajutla, El Salvador
+13.0338 -90.5103 10
+2016-10-31T15:22:12.190Z
+4.9 mww
+90km WSW of San Antonio, Chile
+-33.7609 -72.5757 1.84
+2016-10-31T11:15:45.950Z
+4.9 mb
+50km WNW of Namatanai, Papua New Guinea
+-3.4467 152.03 350.73
+2016-10-31T06:13:12.470Z
+4.5 mb
+13km E of Orkney, South Africa
+-26.9581 26.804 5
+2016-10-31T05:59:20.800Z
+5.1 mb
+33km E of Calama, Chile
+-22.4703 -68.6087 108.63
+2016-10-31T05:44:32.030Z
+4.8 mb
+146km NW of Neiafu, Tonga
+-17.8005 -175.042 213.47
+2016-10-31T03:57:25.010Z
+5 mb
+37km E of Colombia, Colombia
+3.3803 -74.4671 35
+2016-10-31T02:05:58.520Z
+5.4 mb
+40km E of Colombia, Colombia
+3.4372 -74.4445 44
+2016-10-31T00:20:12.590Z
+5.2 mb
+West Chile Rise
+-40.266 -91.9904 10
+2016-10-31T00:00:43.790Z
+4.7 mb
+128km WSW of Kota Ternate, Indonesia
+0.2345 126.35 36.2
+2016-10-30T20:13:54.120Z
+5.3 mb
+258km S of `Ohonua, Tonga
+-23.6568 -175.153 10
+2016-10-30T17:06:55.410Z
+4.6 mb
+1km NNE of Norcia, Italy
+42.805 13.0994 10
+2016-10-30T13:34:55.680Z
+4.5 mb
+93km NNE of Port-Vila, Vanuatu
+-16.9543 168.668 225.6
+2016-10-30T13:08:20.790Z
+4.7 mb
+6km ENE of Cerreto di Spoleto, Italy
+42.839 12.999 10
+2016-10-30T12:07:02.150Z
+4.5 mb
+7km WNW of Norcia, Italy
+42.8209 13.0139 6.11
+2016-10-30T11:58:18.580Z
+4.6 mb
+4km ESE of Camerino, Italy
+43.1228 13.1153 10
+2016-10-30T11:21:11.280Z
+4.7 mb
+6km NW of Cascia, Italy
+42.7654 12.9672 10
+2016-10-30T08:36:01.000Z
+4.5 mb
+293km NNE of Ndoi Island, Fiji
+-18.1503 -177.769 608.53
+2016-10-30T08:31:03.260Z
+6.6 mww
+6km N of Norcia, Italy
+42.8547 13.0884 10
+2016-10-30T06:40:19.200Z
+4.6 mb
+7km SE of Khadyzhensk, Russia
+44.374 39.5963 10
+2016-10-30T05:27:04.870Z
+5.2 mb
+26km NNE of Taltal, Chile
+-25.1694 -70.4212 49.58
+2016-10-30T04:49:40.900Z
+4.5 mb
+215km NW of Saumlaki, Indonesia
+-6.5873 129.919 173.08
+2016-10-30T01:00:21.320Z
+5.1 mb
+90km WSW of San Antonio, Chile
+-33.8343 -72.5594 10
+2016-10-29T22:01:39.050Z
+4.7 mb
+109km NW of Kimbe, Papua New Guinea
+-4.7363 149.587 583.59
+2016-10-29T19:19:55.720Z
+4.9 mb
+Northern Mid-Atlantic Ridge
+29.7411 -42.685 10
+2016-10-29T18:11:53.810Z
+4.8 mb
+184km SSW of Arman', Russia
+58.1482 149.06 17.81
+2016-10-29T18:11:00.760Z
+4.5 mb
+4km WNW of Norcia, Italy
+42.8071 13.0378 10
+2016-10-29T16:24:33.730Z
+5.2 mb
+Northern Mid-Atlantic Ridge
+29.9699 -42.4943 10
+2016-10-29T12:20:15.070Z
+4.5 mb
+29km NNE of Hualian, Taiwan
+24.2054 121.761 35.77
+2016-10-29T11:49:19.350Z
+4.5 mb
+175km E of Kuril'sk, Russia
+45.1571 150.11 54.29
+2016-10-29T09:21:47.570Z
+4.6 mb
+141km NNE of Bristol Island, South Sandwich Islands
+-57.8887 -25.4658 67.29
+2016-10-29T08:07:32.050Z
+4.7 mwr
+130km E of Yamada, Japan
+39.3429 143.461 15.51
+2016-10-29T07:17:13.340Z
+5.1 mb
+32km NW of Port-Olry, Vanuatu
+-14.8349 166.844 39.94
+2016-10-29T03:21:34.380Z
+5 mb
+122km E of Visokoi Island, South Georgia and the South Sandwich Islands
+-56.567 -25.217 7.29
+2016-10-29T00:40:04.210Z
+5.5 mb
+Prince Edward Islands region
+-47.3376 32.4244 10
+2016-10-29T00:33:47.740Z
+5.1 mb
+98km NNW of Hirara, Japan
+25.6697 125.089 14.03
+2016-10-28T21:57:35.120Z
+5.8 mww
+73km NNE of Ustica, Italy
+39.3134 13.536 448.48
+2016-10-28T20:02:48.880Z
+4.9 mb
+44km NW of Abepura, Indonesia
+-2.3569 140.288 16.48
+2016-10-28T19:11:06.030Z
+4.8 mb
+21km SW of Zarand, Iran
+30.6885 56.3922 17.42
+2016-10-28T14:02:28.050Z
+4.7 mb
+11km WSW of Rabaul, Papua New Guinea
+-4.2441 152.077 199.35
+2016-10-28T12:17:04.870Z
+4.8 mb
+143km S of False Pass, Alaska
+53.5604 -163.287 13.59
+2016-10-28T08:36:31.190Z
+4.5 mb
+167km WNW of Neiafu, Tonga
+-17.9483 -175.382 225.93
+2016-10-28T06:56:15.050Z
+5.7 mb
+30km SSE of Taron, Papua New Guinea
+-4.7155 153.153 61.04
+2016-10-28T05:26:57.680Z
+4.9 mb
+21km NW of Independencia, Peru
+-11.8387 -77.1634 62.32
+2016-10-28T03:47:32.900Z
+5 mb
+71km SE of Atka, Alaska
+51.702 -173.538 32.57
+2016-10-28T01:31:28.710Z
+5.3 mb
+61km NW of Abepura, Indonesia
+-2.2358 140.191 10
+2016-10-28T00:41:58.280Z
+4.5 mb
+129km W of Kota Ternate, Indonesia
+0.7971 126.208 47.42
+2016-10-27T23:48:24.810Z
+4.6 mb
+85km NNW of Sola, Vanuatu
+-13.2396 167.121 218.69
+2016-10-27T21:54:00.480Z
+5.9 mwb
+86km WSW of San Antonio, Chile
+-33.7647 -72.5338 14.8
+2016-10-27T20:32:55.710Z
+4.6 mb
+40km NNW of Chamical, Argentina
+-30.0482 -66.5345 25.56
+2016-10-27T15:50:37.920Z
+4.9 mb
+135km S of False Pass, Alaska
+53.6309 -163.314 12.69
+2016-10-27T12:44:59.200Z
+5.8 mwp
+136km S of False Pass, Alaska
+53.6236 -163.277 17.22
+2016-10-27T11:53:18.110Z
+5.8 mwb
+69km E of Bitung, Indonesia
+1.3287 125.793 56.14
+2016-10-27T08:17:49.660Z
+4.6 mb
+79km N of Shikotan, Russia
+44.5057 146.91 123.14
+2016-10-27T06:48:32.660Z
+4.5 mb
+17km SSW of Junin, Ecuador
+-1.08 -80.2751 40.08
+2016-10-27T04:45:53.180Z
+4.5 mb
+4km NNE of Norcia, Italy
+42.8301 13.1201 10
+2016-10-27T03:19:27.910Z
+5.2 mb
+North of Ascension Island
+-1.4288 -15.5944 10
+2016-10-27T01:03:12.550Z
+4.6 mwr
+65km ENE of Calama, Chile
+-22.197 -68.3722 121.68
+2016-10-27T00:59:33.610Z
+4.9 mb
+133km S of False Pass, Alaska
+53.6622 -163.702 18.79
+2016-10-27T00:58:29.630Z
+4.5 mb
+17km S of Mala, Peru
+-12.8141 -76.6573 57.27
+2016-10-27T00:31:36.580Z
+4.5 mb
+17km SSE of Biscucuy, Venezuela
+9.2275 -69.9023 10
+2016-10-26T23:31:03.990Z
+4.9 mb
+4km E of Visso, Italy
+42.9226 13.1361 10
+2016-10-26T21:42:03.500Z
+6.1 mww
+3km W of Visso, Italy
+42.9343 13.0434 10
+2016-10-26T19:18:08.320Z
+5.2 mb
+Ascension Island region
+-11.5728 -13.7838 13.81
+2016-10-26T19:16:03.900Z
+4.7 mb
+71km ENE of Codrington, Barbuda
+17.7779 -61.1563 10
+2016-10-26T17:50:37.680Z
+5.5 mww
+8km ESE of Sellano, Italy
+42.857 13.0228 10
+2016-10-26T17:10:37.880Z
+5.4 mww
+14km E of Balkanabat, Turkmenistan
+39.4927 54.5363 20.39
+2016-10-26T14:15:39.780Z
+5 mb
+64km E of Tingo Maria, Peru
+-9.3434 -75.4232 42.5
+2016-10-26T14:08:08.420Z
+4.5 mb
+7km WNW of Sakura, Japan
+35.7335 140.148 61.23
+2016-10-26T10:12:34.840Z
+4.6 mb
+179km NE of Gisborne, New Zealand
+-37.3966 179.298 10
+2016-10-26T10:08:08.020Z
+4.7 mb
+20km SSW of Serchhip, India
+23.1201 92.7926 41.93
+2016-10-26T06:29:09.260Z
+6.1 mww
+128km WNW of Hihifo, Tonga
+-15.54 -174.872 10
+2016-10-26T05:19:50.510Z
+4.9 mb
+84km SSE of Mawlaik, Burma
+22.8948 94.6065 107.68
+2016-10-26T02:21:58.650Z
+4.8 mb
+136km SW of Mohean, India
+7.0757 92.4647 10
+2016-10-25T22:00:26.090Z
+4.7 mb
+216km NNW of Farallon de Pajaros, Northern Mariana Islands
+22.2169 143.833 103.01
+2016-10-25T20:04:25.990Z
+4.6 mb
+3km NE of Le Gosier, Guadeloupe
+16.234 -61.4735 90.85
+2016-10-25T18:45:34.090Z
+5 mb
+29km SW of Taron, Papua New Guinea
+-4.6705 152.865 62.14
+2016-10-25T18:15:01.060Z
+4.6 mb
+59km ESE of Iwaki, Japan
+36.8611 141.508 30.76
+2016-10-25T17:35:49.850Z
+4.8 mb
+Central Mid-Atlantic Ridge
+4.1894 -32.5276 10
+2016-10-25T16:22:21.470Z
+5.8 mwb
+131km WNW of Hihifo, Tonga
+-15.3871 -174.827 10
+2016-10-25T16:10:01.650Z
+5.1 mb
+184km W of Sola, Vanuatu
+-13.7314 165.85 30.52
+2016-10-25T16:01:00.300Z
+4.6 mb
+28km NW of Salinera Colan, Peru
+-4.8663 -81.2642 29.97
+2016-10-25T15:36:49.140Z
+4.7 mb
+45km ESE of Jin'an, China
+32.5488 104.066 31.2
+2016-10-25T14:29:24.740Z
+4.6 mb
+Central Mid-Atlantic Ridge
+0.9014 -28.7567 10
+2016-10-25T13:41:32.500Z
+4.5 mb
+45km SSE of Ngulu, Micronesia
+8.0456 137.576 28.21
+2016-10-25T13:36:49.930Z
+4.7 mb
+70km SSW of Ngulu, Micronesia
+7.8674 137.217 71.52
+2016-10-25T12:41:51.010Z
+4.5 mb
+44km W of Chenaran, Iran
+36.6558 58.6261 10
+2016-10-25T11:58:35.840Z
+4.8 mb
+84km S of Hihifo, Tonga
+-16.7046 -173.882 133.77
+2016-10-25T11:46:11.840Z
+4.7 mb
+74km WSW of Panguna, Papua New Guinea
+-6.629 154.884 35
+2016-10-25T11:04:52.420Z
+4.8 mb
+108km E of Shikotan, Russia
+43.9641 148.056 48.67
+2016-10-25T10:45:22.610Z
+4.6 mb
+172km ENE of Miyako, Japan
+40.3691 143.741 35
+2016-10-25T09:25:41.380Z
+4.7 mb
+68km W of Tobelo, Indonesia
+1.615 127.409 162.62
+2016-10-25T08:24:34.540Z
+5 mww
+103km NW of Copiapo, Chile
+-26.7023 -71.07 10
+2016-10-25T07:18:20.090Z
+4.9 mwr
+38km ESE of Taitung City, Taiwan
+22.6247 121.493 2.91
+2016-10-25T04:45:50.360Z
+4.9 mb
+North of Ascension Island
+-1.5832 -15.1823 10
+2016-10-24T23:34:07.170Z
+4.7 mb
+18km SE of Cyangugu, Rwanda
+-2.6056 29.0218 10
+2016-10-24T23:30:00.710Z
+4.5 mb
+36km NNW of Visokoi Island, South Georgia and the South Sandwich Islands
+-56.3893 -27.3893 98.97
+2016-10-24T22:32:58.510Z
+4.9 mb
+173km ENE of Miyako, Japan
+40.1964 143.848 10
+2016-10-24T20:52:17.680Z
+4.5 mb
+Macquarie Island region
+-59.148 159.388 10
+2016-10-24T13:38:07.780Z
+4.7 mb
+211km E of Kuril'sk, Russia
+45.2406 150.574 39.74
+2016-10-24T03:01:15.370Z
+5.5 mwb
+Southeast of Easter Island
+-36.0015 -102.687 10
+2016-10-24T01:55:06.710Z
+4.8 mb
+180km ENE of Miyako, Japan
+40.214 143.93 34.7
+2016-10-24T00:28:57.390Z
+5.1 mb
+15km S of Cihuatlan, Mexico
+19.1019 -104.591 45.23
+2016-10-23T22:59:36.880Z
+5.8 mb
+117km E of Shikotan, Russia
+43.9819 148.162 29.7
+2016-10-23T20:25:26.970Z
+4.5 mb
+42km SW of Sola, Vanuatu
+-14.1494 167.264 165.69
+2016-10-23T16:24:13.750Z
+4.6 mb
+6km NW of Lakhipur, India
+26.0651 90.256 22.34
+2016-10-23T15:56:41.740Z
+4.9 mb
+112km W of Lambasa, Fiji
+-16.3957 178.33 15.58
+2016-10-23T15:15:00.150Z
+5 mb
+193km SSE of Iwo Jima, Japan
+23.1844 142.102 42.01
+2016-10-23T11:46:14.970Z
+4.6 mb
+South Indian Ocean
+-11.9787 89.5786 10
+2016-10-23T11:03:15.860Z
+4.8 mb
+114km SSE of Lorengau, Papua New Guinea
+-2.961 147.696 10
+2016-10-23T07:26:59.230Z
+4.6 mb
+39km SW of Ovalle, Chile
+-30.8507 -71.4902 39.77
+2016-10-23T06:09:17.470Z
+4.5 mb
+15km SSW of Sukadami, Indonesia
+-7.5669 106.978 35
+2016-10-23T05:45:43.080Z
+4.6 mb
+152km NNW of Visokoi Island, South Georgia and the South Sandwich Islands
+-55.4608 -28.2537 10
+2016-10-23T04:10:08.950Z
+4.5 mb
+88km SW of San Pedro de Atacama, Chile
+-23.4341 -68.8781 100.07
+2016-10-23T02:10:15.010Z
+4.6 mb
+29km SSW of Lembur Tengah, Indonesia
+-7.8877 107.606 69.6
+2016-10-22T22:44:50.960Z
+4.6 mb
+102km N of Agrihan, Northern Mariana Islands
+19.6728 145.488 130.19
+2016-10-22T22:38:01.870Z
+4.6 mb
+59km NW of Jayapura, Indonesia
+-2.1293 140.352 10
+2016-10-22T22:31:46.640Z
+4.7 mb
+North of Severnaya Zemlya
+85.5971 83.6553 10
+2016-10-22T18:47:19.450Z
+5 mb
+245km NW of Saumlaki, Indonesia
+-6.32 129.814 24.39
+2016-10-22T17:49:34.510Z
+4.8 mb
+46km NW of Adak, Alaska
+52.1489 -177.169 143.02
+2016-10-22T16:42:19.510Z
+4.8 mb
+113km SSW of Merizo Village, Guam
+12.4044 144.107 10
+2016-10-22T02:00:37.260Z
+4.5 mb
+9km ENE of Roshtqal'a, Tajikistan
+37.2854 71.9225 201.93
+2016-10-21T23:31:28.840Z
+4.6 mb
+5km SE of San Jose El Idolo, Guatemala
+14.4147 -91.376 96.63
+2016-10-21T19:51:16.760Z
+4.9 mb
+19km S of Saiki, Japan
+32.7727 131.877 48.71
+2016-10-21T18:33:46.140Z
+4.5 mwr
+191km ENE of Opotiki, New Zealand
+-37.1254 179.086 10.89
+2016-10-21T18:20:47.980Z
+4.7 mb
+Bonin Islands, Japan region
+28.826 138.764 493.84
+2016-10-21T18:08:36.900Z
+4.9 mb
+18km WSW of Kainantu, Papua New Guinea
+-6.3505 145.714 127.11
+2016-10-21T16:41:11.680Z
+5 mb
+168km ENE of Angoram, Papua New Guinea
+-3.4144 145.443 10
+2016-10-21T16:32:33.400Z
+5 mb
+79km W of Tobelo, Indonesia
+1.8419 127.307 97.34
+2016-10-21T16:10:53.500Z
+4.8 mb
+135km E of Shikotan, Russia
+43.6222 148.386 37.99
+2016-10-21T08:44:50.510Z
+4.6 mb
+7km S of Kurayoshi, Japan
+35.3651 133.802 10
+2016-10-21T05:53:18.150Z
+6.2 mww
+7km S of Kurayoshi, Japan
+35.3676 133.815 5.7
+2016-10-21T05:07:23.010Z
+4.5 mb
+85km SSW of Pasarbaru, Indonesia
+-1.9878 100.144 57.34
+2016-10-21T01:45:01.340Z
+4.7 mb
+Northern Mid-Atlantic Ridge
+13.2229 -45.0959 10
+2016-10-21T00:06:42.200Z
+5.3 mb
+60km NNE of Naisano Dua, Indonesia
+-9.0645 123.904 100.86
+2016-10-20T20:50:13.910Z
+4.6 mb
+17km S of Hidalgotitlan, Mexico
+17.6307 -94.6084 139.4
+2016-10-20T15:21:16.360Z
+4.6 mb
+8km NW of El Palmar, Guatemala
+14.6975 -91.6426 96.49
+2016-10-20T15:13:13.350Z
+4.8 mb
+3km W of Zarand, Iran
+30.8094 56.5327 10
+2016-10-20T15:10:31.150Z
+4.9 mb
+89km W of Amukta Island, Alaska
+52.4569 -172.577 138.68
+2016-10-20T11:23:51.700Z
+5 mb
+210km SE of Lambasa, Fiji
+-17.9749 -179.48 653.46
+2016-10-20T07:49:42.870Z
+5.7 mb
+225km NNW of Farallon de Pajaros, Northern Mariana Islands
+22.274 143.757 107.9
+2016-10-20T06:25:56.570Z
+5.4 mb
+2km NW of Omigawa, Japan
+35.8638 140.591 26.27
+2016-10-20T02:49:54.060Z
+5.1 mb
+36km SW of Ashkasham, Afghanistan
+36.4605 71.2364 102.59
+2016-10-20T00:40:01.730Z
+5.6 mww
+Northern Mid-Atlantic Ridge
+13.3118 -44.8777 10
+2016-10-20T00:09:26.500Z
+4.5 mb
+14km W of Rodotopion, Greece
+39.7218 20.5605 10
+2016-10-19T21:23:56.760Z
+4.7 mb
+20km SSE of Hede, China
+33.5895 120.327 10
+2016-10-19T20:51:11.760Z
+4.7 mb
+15km NW of Pisco, Peru
+-13.5827 -76.3018 46.2
+2016-10-19T19:31:15.750Z
+4.7 mb
+55km WNW of Kandrian, Papua New Guinea
+-6.0833 149.065 88.24
+2016-10-19T15:12:39.130Z
+4.7 mb
+34km SSE of Beykonak, Turkey
+36.0641 30.5084 49.81
+2016-10-19T12:18:46.650Z
+4.9 mb
+125km WNW of Kota Ternate, Indonesia
+1.0951 126.28 59.15
+2016-10-19T04:54:51.560Z
+6.6 mww
+161km NNE of Pamanukan, Indonesia
+-4.8626 108.163 614
+2016-10-19T00:26:01.090Z
+5.6 mww
+12km WSW of Pointe Michel, Dominica
+15.2179 -61.4913 146
+2016-10-18T22:08:14.350Z
+4.5 mb
+8km S of Nikolski, Alaska
+52.8632 -168.862 54
+2016-10-18T19:24:15.320Z
+5.9 mww
+South of the Fiji Islands
+-23.3265 -179.843 540
+2016-10-18T16:36:41.760Z
+4.8 mb
+21km SSE of Acapulco de Juarez, Mexico
+16.6885 -99.8129 24.83
+2016-10-18T13:08:26.080Z
+4.6 mb
+140km N of Lae, Papua New Guinea
+-5.4681 147.163 177.08
+2016-10-18T10:29:56.670Z
+5.1 mb
+Carlsberg Ridge
+5.638 61.4544 10
+2016-10-18T07:51:20.680Z
+4.5 mb
+98km NNE of Nago, Japan
+27.3516 128.478 53.52
+2016-10-18T07:22:13.420Z
+5.3 mb
+Scotia Sea
+-60.3487 -47.2696 10
+2016-10-18T04:26:08.870Z
+4.5 mb
+6km N of Lubin, Poland
+51.4602 16.2018 5
+2016-10-17T23:50:33.920Z
+5.1 mb
+2km E of San Isidro, Philippines
+10.0169 126.099 51.94
+2016-10-17T21:45:05.630Z
+4.5 mb
+South of Africa
+-53.5386 25.2663 10
+2016-10-17T21:21:10.410Z
+4.6 mb
+283km ESE of Vostok, Russia
+47.9629 152.461 131.87
+2016-10-17T18:52:22.950Z
+4.9 mb
+113km SSE of Taron, Papua New Guinea
+-5.429 153.395 10
+2016-10-17T18:37:12.950Z
+4.6 mb
+Carlsberg Ridge
+5.3038 61.4043 10
+2016-10-17T18:22:33.270Z
+4.6 mb
+Carlsberg Ridge
+5.3639 61.3792 10
+2016-10-17T18:16:50.270Z
+4.8 mb
+Chagos Archipelago region
+-4.8211 68.7706 10
+2016-10-17T18:04:48.780Z
+4.5 mb
+27km E of Santiago, Peru
+-14.2181 -75.4601 51.72
+2016-10-17T17:16:01.630Z
+4.5 mb
+75km ESE of Akutan, Alaska
+53.7576 -164.819 50.52
+2016-10-17T10:55:23.160Z
+4.6 mb
+145km NE of Dartang, China
+32.8768 95.0681 35
+2016-10-17T07:33:39.520Z
+5.9 mww
+135km NE of Dartang, China
+32.9064 94.8796 23.32
+2016-10-17T07:14:49.190Z
+4.6 mb
+106km W of San Antonio de los Cobres, Argentina
+-24.2348 -67.3648 207.36
+2016-10-17T07:11:55.350Z
+6.9 mwp
+78km WNW of Kandrian, Papua New Guinea
+-6.0526 148.862 35
+2016-10-17T06:14:58.370Z
+4.6 mb
+11km S of Roshtqal'a, Tajikistan
+37.1522 71.8287 149.73
+2016-10-17T05:40:03.110Z
+4.5 mb
+126km WNW of Lautoka, Fiji
+-17.1655 176.378 10
+2016-10-17T02:50:47.130Z
+4.6 mb
+27km S of Jarm, Afghanistan
+36.6166 70.827 246.99
+2016-10-17T00:37:14.440Z
+4.9 mb
+168km NE of Palmer Station, Antarctica
+-63.5861 -61.9124 10
+2016-10-17T00:13:56.420Z
+4.7 mb
+81km SSW of Kavieng, Papua New Guinea
+-3.2944 150.65 10
+2016-10-16T20:22:17.340Z
+4.6 mb
+12km NW of Rodotopion, Greece
+39.7848 20.6133 27.14
+2016-10-16T19:01:40.670Z
+4.5 mb
+10km NW of Rodotopion, Greece
+39.77 20.6323 7.18
+2016-10-16T16:44:04.270Z
+5 mb
+27km SW of Pimentel, Peru
+-7.007 -80.1187 40.76
+2016-10-16T13:04:26.680Z
+4.5 mb
+65km E of Shizunai, Japan
+42.2393 143.153 66.35
+2016-10-16T12:43:42.920Z
+4.7 mb
+66km NNE of Port-Olry, Vanuatu
+-14.5512 167.393 196.61
+2016-10-16T10:39:24.910Z
+4.7 mb
+170km WSW of Abepura, Indonesia
+-3.4687 139.294 60.36
+2016-10-16T10:30:51.560Z
+4.5 mb
+34km NNW of Taron, Papua New Guinea
+-4.1907 152.893 49.03
+2016-10-16T09:21:13.820Z
+4.5 mb
+6km N of Rodotopion, Greece
+39.7682 20.7164 10
+2016-10-16T08:40:20.310Z
+4.7 mb
+134km ESE of Visokoi Island, South Georgia and the South Sandwich Islands
+-57.2246 -25.2136 53.05
+2016-10-16T08:05:40.660Z
+5.1 mb
+24km ESE of Ishinomaki, Japan
+38.3018 141.533 14.24
+2016-10-16T07:37:03.830Z
+4.5 mb
+41km S of Campoverde, Peru
+-8.8504 -74.7638 134.9
+2016-10-16T05:52:52.160Z
+4.5 mb
+3km NNW of Rodotopion, Greece
+39.74 20.7143 10
+2016-10-16T05:06:33.500Z
+5.1 mb
+13km NW of Rodotopion, Greece
+39.7864 20.6 10
+2016-10-16T03:40:20.080Z
+5 mb
+9km WNW of Rodotopion, Greece
+39.7478 20.6335 10
+2016-10-16T02:21:02.700Z
+4.8 mb
+14km NW of Rodotopion, Greece
+39.8073 20.6096 10
+2016-10-16T01:32:05.220Z
+4.8 mb
+46km NE of Airbuaya, Indonesia
+-2.7678 126.707 43.76
+2016-10-16T01:23:22.080Z
+4.9 mb
+2km NW of Rodotopion, Greece
+39.7251 20.7046 10
+2016-10-16T00:48:16.160Z
+5.2 mww
+15km NW of Rodotopion, Greece
+39.8071 20.5924 11.6
+2016-10-16T00:41:14.130Z
+5 mb
+6km N of Rodotopion, Greece
+39.7659 20.7143 10
+2016-10-16T00:09:58.160Z
+4.6 mb
+209km E of Anatahan, Northern Mariana Islands
+16.5465 147.616 10
+2016-10-15T22:22:35.620Z
+4.6 mb
+6km N of Eleousa, Greece
+39.7657 20.7978 10
+2016-10-15T20:18:41.640Z
+5.5 mww
+12km NNW of Rodotopion, Greece
+39.8063 20.6463 22
+2016-10-15T20:14:49.730Z
+4.6 mb
+180km NNW of Sola, Vanuatu
+-12.2882 167.196 229.54
+2016-10-15T17:47:09.030Z
+4.7 mb
+167km SSE of `Ohonua, Tonga
+-22.6403 -174.125 27.87
+2016-10-15T12:24:56.450Z
+4.5 mb
+North of Severnaya Zemlya
+85.5754 83.8355 10
+2016-10-15T10:48:30.520Z
+5.1 mww
+117km NNW of Eregli, Turkey
+42.2088 30.7242 6.4
+2016-10-15T08:18:32.870Z
+6.3 mww
+143km N of Kimbe, Papua New Guinea
+-4.2701 150.361 442
+2016-10-15T08:03:38.140Z
+4.5 mwr
+57km SSE of Palaikastron, Greece
+34.7273 26.5171 10.59
+2016-10-15T05:32:56.160Z
+4.5 mb
+252km ESE of Lambasa, Fiji
+-17.6334 -178.613 547.86
+2016-10-15T00:50:02.980Z
+4.5 mb
+Central Mid-Atlantic Ridge
+-1.0721 -24.7087 10
+2016-10-15T00:46:53.850Z
+4.5 mb
+265km E of Anatahan, Northern Mariana Islands
+16.5779 148.144 10
+2016-10-14T22:36:20.310Z
+4.6 mb
+292km E of Anatahan, Northern Mariana Islands
+16.4765 148.405 10
+2016-10-14T22:02:34.010Z
+4.8 mb
+176km NNW of Sola, Vanuatu
+-12.4055 166.944 186.25
+2016-10-14T21:30:30.420Z

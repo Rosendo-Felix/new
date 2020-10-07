@@ -1,0 +1,24 @@
+4.9 mb
+16km NE of Kaikoura, New Zealand
+-42.2914 173.807 10
+2016-11-13T20:22:13.550Z
+4.6 mwr
+40km NW of San Antonio de los Cobres, Argentina
+-23.9891 -66.6231 208.02
+2016-11-07T15:24:07.480Z
+4.6 mb
+53km SE of Blenheim, New Zealand
+-41.827 174.444 10
+2016-11-13T19:38:07.070Z
+5.1 mb
+40km SE of Blenheim, New Zealand
+-41.73 174.34 8
+2016-11-13T19:28:44.000Z
+4.5 mb
+226km ENE of Sola, Vanuatu
+-12.8927 169.382 639.36
+2016-11-10T22:04:27.610Z
+5 mb
+209km SSE of Punta de Burica, Panama
+6.1803 -82.4554 10
+2016-11-12T20:08:48.820Z

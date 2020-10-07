@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/School/CS1410/Module_3/waldo_and_earthquakes/tests/cout_redirect.cpp
+cout_redirect.h
+E:/School/CS1410/Module_3/waldo_and_earthquakes/tests/cout_redirect.h
+
+E:/School/CS1410/Module_3/waldo_and_earthquakes/tests/cout_redirect.h
+iostream
+-
+streambuf
+-
+stdio.h
+-
+iostream
+-
+streambuf
+-
+stdlib.h
+-
+string
+-
+sstream
+-
+
